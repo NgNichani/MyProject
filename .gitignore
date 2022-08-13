@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+pdf_from_multiple_images.py
+screenshot.py
