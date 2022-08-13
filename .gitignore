@@ -1,3 +1,6 @@
+pdf_from_multiple_images.py
+screenshot.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -103,5 +106,3 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-pdf_from_multiple_images.py
-screenshot.py
